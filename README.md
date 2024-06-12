@@ -1,2 +1,10 @@
-# today-i-read
-Anything I read goes here (trying to develop a reading habit) 
+# Today I read
+
+Date Format - YYYY/MM/DD
+
+### 2024-06-11
+
+
+
+
+
